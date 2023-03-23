@@ -9,4 +9,8 @@ We are going to create an Item interface representing food items such as burgers
 
 We then create a Meal class having ArrayList of Item and a MealBuilder to build different types of Meal objects by combining Item. BuilderPatternDemo, our demo class will use MealBuilder to build a Meal.
 
-Builder Pattern UML Diagram![builder_pattern_uml_diagram](https://user-images.githubusercontent.com/63951442/227303930-e5bf5211-ce1b-4bb5-b372-915d5afc57d5.jpg)
+Builder Pattern UML Diagram
+
+
+
+![builder_pattern_uml_diagram](https://user-images.githubusercontent.com/63951442/227303930-e5bf5211-ce1b-4bb5-b372-915d5afc57d5.jpg)
